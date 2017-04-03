@@ -1,0 +1,3 @@
+SFX_Voice_Sound_Boss_Die,Audio/SFX_Voice_Sound_Boss_Die
+SFX_Voice_Sound_ChangeLeopard_Idle,Audio/SFX_Voice_Sound_ChangeLeopard_Idle
+SFX_Voice_Sound_ChangeToLeopard_Game,Audio/SFX_Voice_Sound_ChangeToLeopard_Game
